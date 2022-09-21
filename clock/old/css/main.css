@@ -114,8 +114,8 @@ body.light .clock:before {
     position: absolute;
     width: 7.5px;
     height: 80px;
-    background: #f81460;
     z-index: 10;
+    background: #f7cad0;
     /* z-index least */
     border-radius: 2.8px;
 }
@@ -142,7 +142,7 @@ body.light .mn:before {
     position: absolute;
     width: 2px;
     height: 150px;
-    background: #0075fa80;
+    background: #ff477e80;
     z-index: 12;
     /* z-index more than hour minute hand */
     border-radius: 3px;
