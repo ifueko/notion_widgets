@@ -11,7 +11,7 @@
   --text-color: hsl(var(--hue-color), 12%, 35%);
   --text-color-light: hsl(var(--hue-color), 12%, 65%);
   --white-color: #FFF;
-  --body-color: #FFFFFF80; /*hsl(var(--hue-color), 24%, 94%);*/
+  --body-color: #FFFFFF; /*hsl(var(--hue-color), 24%, 94%);*/
 
   /*========== Font and typography ==========*/
   --body-font: 'Poppins', sans-serif;
@@ -47,7 +47,7 @@
 body.dark-theme {
   --title-color: hsl(var(--hue-color), 12%, 95%);
   --text-color: hsl(var(--hue-color), 12%, 75%);
-  --body-color: #19191980; /*hsl(var(--hue-color), 10%, 16%);*/
+  --body-color: #191919; /*hsl(var(--hue-color), 10%, 16%);*/
 }
 
 /*========== Button Dark/Light ==========*/
